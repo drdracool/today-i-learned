@@ -1,4 +1,4 @@
-# Today I Learned: make and share your fragmented knowledge
+# Today I Learned: record and share your fragmented knowledge
 
 ## Introduction
 
